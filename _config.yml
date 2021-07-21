@@ -14,11 +14,11 @@ author: bab2min, hexists
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About US: "aboutme"
+  Courses:
+    - course 1. git/github: "https://beautifuljekyll.com"
+    - course 2. about NLP: "https://beautifuljekyll.com"
+Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
