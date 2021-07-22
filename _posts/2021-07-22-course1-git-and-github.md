@@ -1,78 +1,43 @@
 ---
 layout: post
-title: course1. Git & Github
+title: Course1. Git & Github
 subtitle: Learn Git & Github
-gh-repo: daattali/beautiful-jekyll
+gh-repo: nlp-with-u/nlp-with-u.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [git, github]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
+Git, Github을 간단히 배울 수 있는 링크입니다.  
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Warning:** 꼭 여기에 있는 사이트를 참고하지 않아도 됩니다. 더 좋은 자료를 발견하면 공유해주세요.  
 
-### Error
+### simple course
 
-{: .box-error}
-**Error:** This is an error box.
+- [Git / GitHub 안내서, subicura](https://subicura.com/git/)
+- [생활코딩, Git1](https://opentutorials.org/module/3733)
+- [생활코딩, Github](https://opentutorials.org/module/155/2475)
+- [생활코딩, 지옥에서 온 Git](https://www.opentutorials.org/course/2708)
+- [Github 사용 설명서, bnitech](https://bnitech.tistory.com/9)
+- [official, helloworld](https://guides.github.com/activities/hello-world/)
+- [official, lab](https://lab.github.com/)
+
+### detail course
+
+- Git 전반
+  - [git scm](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
+- Git 환경설정
+  - [Git CLI, 프시케](https://medium.com/@psychet_learn/git-%EC%82%AC%EC%9A%A9%EB%B2%95-2%EC%9E%A5-git-cli-%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0-3bc6c25db65f)
+  - [git GUI, trend21c](https://trend21c.tistory.com/1431)
+  - [git + visual Studio Code](https://promobile.tistory.com/378)
+- Commands
+  - [commit](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%EC%88%98%EC%A0%95%ED%95%98%EA%B3%A0-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+  - [branch](https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+  - [fork](https://velog.io/@imacoolgirlyo/Git-fork%EC%99%80-clone-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-5sjuhwfzgp)
+  - [merge](https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%B8%8C%EB%9E%9C%EC%B9%98%EC%99%80-Merge-%EC%9D%98-%EA%B8%B0%EC%B4%88)
+  - [pull request(pr), issue](https://ebbnflow.tistory.com/260)
+- Github
+  - [Github 계정 생성](https://git-scm.com/book/ko/v2/GitHub-%EA%B3%84%EC%A0%95-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+  - [Github Action](https://elastic7327.medium.com/%EA%B9%83%ED%97%88%EB%B8%8C%EC%9D%98-%EC%95%A1%EC%85%98-%EA%B8%B0%EB%8A%A5-git-action-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-ed634d622280)
+  - [Github Action CI/CD](https://hwasurr.io/git-github/github-actions/)
