@@ -13,7 +13,7 @@ Git, Github을 간단히 배울 수 있는 링크입니다.
 {: .box-warning}
 **Warning:** 꼭 여기에 있는 사이트를 참고하지 않아도 됩니다. 더 좋은 자료를 발견하면 공유해주세요.  
 
-### simple course
+### Simple course
 
 - [Git / GitHub 안내서, subicura](https://subicura.com/git/)
 - [생활코딩, Git1](https://opentutorials.org/module/3733)
@@ -23,7 +23,7 @@ Git, Github을 간단히 배울 수 있는 링크입니다.
 - [official, helloworld](https://guides.github.com/activities/hello-world/)
 - [official, lab](https://lab.github.com/)
 
-### detail course
+### Detail course
 
 - Git 전반
   - [git scm](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
@@ -41,3 +41,4 @@ Git, Github을 간단히 배울 수 있는 링크입니다.
   - [Github 계정 생성](https://git-scm.com/book/ko/v2/GitHub-%EA%B3%84%EC%A0%95-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
   - [Github Action](https://elastic7327.medium.com/%EA%B9%83%ED%97%88%EB%B8%8C%EC%9D%98-%EC%95%A1%EC%85%98-%EA%B8%B0%EB%8A%A5-git-action-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-ed634d622280)
   - [Github Action CI/CD](https://hwasurr.io/git-github/github-actions/)
+
