@@ -8,7 +8,7 @@ subtitle:
 
 `NLP With U`는 자연어처리에 쓰이는 다양한 도구들을 개선하고 발전시키기 위한 프로젝트입니다. 
 이미 영어권에서는 많은 수의 오픈소스 도구들이 공유되고 있지만, 한국어는 언어의 특성이 다르기에 이 도구들을 그대로 사용하기 어려운 경우가 많습니다. 
-NLP With U는 [OSS.kr의 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)를 통해 한국어 자연어처리를 위한 도구들에 작지만 의미 있는 기여를 하고자 합니다.
+NLP With U는 [2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)를 통해 한국어 자연어처리를 위한 도구들에 작지만 의미 있는 기여를 하고자 합니다.
 현재 NLP With U는 컨트리뷰션 아카데미의 일환으로 진행되지만, 일회성의 프로젝트에서 끝마치지 않고 지속적으로 국내 오픈소스 활성화에 기여하는 프로젝트로 유지되길 희망합니다.
 
 ## 우리의 목표
@@ -21,4 +21,4 @@ NLP With U는 [OSS.kr의 컨트리뷰션 아카데미](https://www.oss.kr/contri
 
 * 이민철 [Github](https://github.com/bab2min)
 * 이다니엘 [Github](https://github.com/hexists)
-*
+
