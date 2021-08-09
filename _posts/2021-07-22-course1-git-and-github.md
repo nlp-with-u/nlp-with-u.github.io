@@ -41,4 +41,4 @@ Git, Github을 간단히 배울 수 있는 링크입니다.
   - [Github 계정 생성](https://git-scm.com/book/ko/v2/GitHub-%EA%B3%84%EC%A0%95-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
   - [Github Action](https://elastic7327.medium.com/%EA%B9%83%ED%97%88%EB%B8%8C%EC%9D%98-%EC%95%A1%EC%85%98-%EA%B8%B0%EB%8A%A5-git-action-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-ed634d622280)
   - [Github Action CI/CD](https://hwasurr.io/git-github/github-actions/)
-
+  - [GitHub를 이용한 1인 개발 워크플로우 - 이론](https://www.huskyhoochu.com/issue-based-version-control-101), [Github를 이용한 1인 개발 워크플로우 - 실전](https://www.huskyhoochu.com/issue-based-version-control-201/) : 내용은 1인 개발자를 위한 가이드인데, 협업할 때도 거의 비슷해서 유용해보입니다.
