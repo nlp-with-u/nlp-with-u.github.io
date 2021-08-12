@@ -21,4 +21,4 @@ NLP With U는 [2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.k
 
 * 이민철 [Github](https://github.com/bab2min)
 * 이다니엘 [Github](https://github.com/hexists)
-
+* 이정현 [Github](https://github.com/coding-Benny)
