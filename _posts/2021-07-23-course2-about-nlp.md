@@ -15,6 +15,7 @@ NLP는 Natural Language Processing(자연어처리)의 약자로써 인간의 �
 
 ### 자연어처리 전반
 * [딥 러닝을 이용한 자연어처리 입문](https://wikidocs.net/book/2155) : NLP 전반에 대해 잘 소개된 Wikidocs 페이지 (이론 & 코드)
+* [ratsgo's blog for textminig](https://ratsgo.github.io/blog/categories/#natural-language-processing) : 자연어처리에 대하여 잘 정리된 블로그
 * [nlp-tutorial 코드](https://github.com/graykode/nlp-tutorial) : word2vec부터 transformer까지 jupyter notebook으로 직접 실습해 볼 수 있는 repository
 
 ### 텍스트 전처리
