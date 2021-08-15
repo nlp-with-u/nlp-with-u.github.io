@@ -22,7 +22,7 @@ Git, Github을 간단히 배울 수 있는 링크입니다.
 - [Github 사용 설명서, bnitech](https://bnitech.tistory.com/9)
 - [official, helloworld](https://guides.github.com/activities/hello-world/)
 - [official, lab](https://lab.github.com/)
-- [팀 개발을 위한 Git, GitHub 시작하기](http://www.yes24.com/Product/Goods/86031178)
+- [팀 개발을 위한 Git, GitHub 시작하기(무료 특별판) - eBook 구매 링크](http://www.yes24.com/Product/Goods/86031178)
 
 ### Detail course
 
