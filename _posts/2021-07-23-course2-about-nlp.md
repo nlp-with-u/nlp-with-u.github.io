@@ -15,6 +15,7 @@ NLP는 Natural Language Processing(자연어처리)의 약자로써 인간의 �
 
 ### 자연어처리 전반
 * [딥 러닝을 이용한 자연어처리 입문](https://wikidocs.net/book/2155) : NLP 전반에 대해 잘 소개된 Wikidocs 페이지 (이론 & 코드)
+* [ratsgo's blog for textminig](https://ratsgo.github.io/blog/categories/#natural-language-processing) : 자연어처리에 대하여 잘 정리된 블로그
 
 ### 텍스트 전처리
 * 텍스트 전처리(Text Preprocessing): 자연어처리에 있어 제일 기초적인 단계. 텍스트를 컴퓨터가 이해하기 좋은 형태로 잘 가공하는 과정 전반을 가리킨다. 언어에 따라 사용하는 기법이 크게 갈린다.
