@@ -14,9 +14,9 @@ NLP 작업은 보통 텍스트 전처리, 모델 구현/훈련, 훈련된 모델
 * [KoNLPy](https://github.com/konlpy/konlpy): 한국어 정보처리를 위한 파이썬 패키지. 
   한국어 NLP에서 형태소 단위로 분리하는 데이터 전처리(토크나이징)에 많이 사용 ([한국어문서](https://konlpy.org/ko/latest/))
 * [KoGPT2](https://github.com/konlpy/konlpy): 부족한 한국어 성능 극복을 위해 40GB 이상의 텍스트로 학습된 한국어 디코더 언어모델
-* [KoBERT](https://github.com/SKTBrain/KoBERT)
+* [KoBERT](https://github.com/SKTBrain/KoBERT): 구글 BERT base multilingual cased의 한국어 성능 한계를 극복하기 위해 SKTBrain팀이 만든 한국어용 NLP도구
 * [Soynlp](https://github.com/lovit/soynlp)
-* [Kiwi](https://github.com/bab2min/Kiwi)
+* [Kiwi](https://github.com/bab2min/Kiwi): 세종 품사 태그 체계를 기반으로, 빠른 속도와 범용적인 성능을 지향하는 한국어 형태소 분석기 라이브러리
 
 - 한국어 말뭉치
   - [국립국어원 모두의 말뭉치](https://corpus.korean.go.kr/#none): 문어체와 구어체를 포함한 다양한 한국어 말뭉치
