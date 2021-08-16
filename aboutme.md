@@ -26,3 +26,4 @@ NLP With U는 [2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.k
 * 선혜주 [Github](https://github.com/HyeJuSeon)
 * 신문종 [Github](https://github.com/moon-jong)
 * 최예진 [Github](https://github.com/new-w)
+* 김현지 [Github](https://github.com/p1zz4)
