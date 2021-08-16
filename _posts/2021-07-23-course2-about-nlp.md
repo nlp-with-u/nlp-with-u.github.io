@@ -15,8 +15,6 @@ NLP는 Natural Language Processing(자연어처리)의 약자로써 인간의 �
 
 ### 자연어처리 전반
 * [딥 러닝을 이용한 자연어처리 입문](https://wikidocs.net/book/2155) : NLP 전반에 대해 잘 소개된 Wikidocs 페이지 (이론 & 코드)
-* [ratsgo's blog for textminig](https://ratsgo.github.io/blog/categories/#natural-language-processing) : 자연어처리에 대하여 잘 정리된 블로그
-* [nlp-tutorial 코드](https://github.com/graykode/nlp-tutorial) : word2vec부터 transformer까지 jupyter notebook으로 직접 실습해 볼 수 있는 repository
 
 ### 텍스트 전처리
 * 텍스트 전처리(Text Preprocessing): 자연어처리에 있어 제일 기초적인 단계. 텍스트를 컴퓨터가 이해하기 좋은 형태로 잘 가공하는 과정 전반을 가리킨다. 언어에 따라 사용하는 기법이 크게 갈린다.
@@ -35,7 +33,8 @@ NLP는 Natural Language Processing(자연어처리)의 약자로써 인간의 �
 
 ### 텍스트 군집화
 * 텍스트 군집화(Text Clustering): 주어진 여러 개의 텍스트 중 비슷한 텍스트를 묶어주는 작업. 분류와는 달리 사람이 카테고리를 직접 지정해주지 않고, 입력한 데이터를 바탕으로 스스로 유사한 텍스트들을 묶어내는게 특징이다.
-* (관련 자료들을 보충해주세요)
+* 텍스트 클러스터링 개요[원문](https://towardsdatascience.com/a-friendly-introduction-to-text-clustering-fa996bcefd04), [한국어](https://ichi.pro/ko/tegseuteu-keulleoseuteoling-e-daehan-chinsughan-sogae-275536845667588) : 텍스트 군집화 관련 개념 소개 포스트  (기초)
+* [텍스트 클러스터링 이해하기](https://towardsdatascience.com/making-sense-of-text-clustering-ca649c190b20) : 인도네시아 교통 사고 데이터셋 기반 실습 포스트 (기초, 코드)
 
 ### 토큰 분류, 시퀀스 레이블링(태깅)
 * 토큰 분류(Token Classification, Sequence Labeling, Sequence Tagging): 주어진 텍스트 내의 토큰(단어 혹은 형태소 등)들이 정해진 카테고리 중 어디에 속하는지 판단하는 작업. 전체 텍스트에 하나의 카테고리가 부여되는 텍스트 분류와는 달리 토큰 분류는 각 토큰별로 카테고리가 다르게 부여될 수 있다. 레이벨링 혹은 태깅이라고도 부른다. 이 부류에 속하는 작업 중 대표적인 것으로 품사 태깅(POS Tagging), 개체명 인식(Named Entity Recognition)과 형태소 분석(Morphological Analysis)이 있다.
@@ -45,7 +44,7 @@ NLP는 Natural Language Processing(자연어처리)의 약자로써 인간의 �
 * [KoNLPy 형태소 분석 설명글](https://konlpy-ko.readthedocs.io/ko/v0.4.3/morph/) : 다양한 한국어 형태소 분석기에 대한 소개 (기초, 이론)
 
 ### 텍스트 요약
-* 텍스트 요약(Text Summarization): 
+* 텍스트 요약(Text Summarization): 상대적으로 큰 원문을 핵심 내용만 간추려 상대적으로 작은 요약문으로 변환하는 것이자 주어진 텍스트에서 중요 정보만 정제해내는 과정. 즉, 원문을 이해하기 쉬우면서도 가치있는 정보로 변환하는 작업이다. 크게 원문에서 중요한 핵심 문장이나 단어구를 추출하여 이로 요약문을 구성하는 추출적 요약과 원문에 없던 문장이라도 핵심 문맥을 반영한 새로운 문장을 생성해서 원문을 요약하는 추상적 요약으로 나눌 수 있다.
 * [BERT를 활용한 한국어 문서 추출요약 봇](https://velog.io/@raqoon886/KorBertSum-SummaryBot): 코드
 * [자동 요약 기법의 연구 동향 정리](https://bab2min.tistory.com/625): 텍스트 요약 기법의 역사에 대해 간략하게 정리한 블로그 포스팅 (기초, 이론)
 * [어텐션을 이용한 텍스트 요약](https://wikidocs.net/72820) : 생성 요약을 구현 코드 설명 (심화, 코드)
