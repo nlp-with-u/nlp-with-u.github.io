@@ -13,7 +13,7 @@ NLP 작업은 보통 텍스트 전처리, 모델 구현/훈련, 훈련된 모델
 ### 한국어용 오픈소스 NLP 도구
 * [KoNLPy](https://github.com/konlpy/konlpy): 한국어 정보처리를 위한 파이썬 패키지. 
   한국어 NLP에서 형태소 단위로 분리하는 데이터 전처리(토크나이징)에 많이 사용 ([한국어문서](https://konlpy.org/ko/latest/))
-* [KoGPT2](https://github.com/konlpy/konlpy): 부족한 한국어 성능 극복을 위해 40GB 이상의 텍스트로 학습된 한국어 디코더 언어모델
+* [KoGPT2](https://github.com/SKT-AI/KoGPT2): 부족한 한국어 성능 극복을 위해 40GB 이상의 텍스트로 학습된 한국어 디코더 언어모델
 * [KoBERT](https://github.com/SKTBrain/KoBERT)
 * [Soynlp](https://github.com/lovit/soynlp)
 * [Kiwi](https://github.com/bab2min/Kiwi)
@@ -32,6 +32,8 @@ NLP 작업은 보통 텍스트 전처리, 모델 구현/훈련, 훈련된 모델
 * [OpenNLP](https://github.com/apache/opennlp)
 * [PORORO](https://github.com/kakaobrain/pororo)
 * [GPT-2](https://openai.com/blog/gpt-2-1-5b-release/) : OpenAI의 단방향 언어모델. 문장 생성에 최적화
+* [Transformers](https://github.com/huggingface/transformers): State-of-the-art NLP 도구 모음 라이브러리(RoBERT,GPT,T5 등 pre-trained모델 제공)
 
 ### NLP 도구 사용법
 * [KoNLPy](https://konlpy.org/ko/latest/#user-guide): KoNLPy 사용 가이드
+* [Transformers](https://huggingface.co/transformers/#): Transformers 사용 가이드
