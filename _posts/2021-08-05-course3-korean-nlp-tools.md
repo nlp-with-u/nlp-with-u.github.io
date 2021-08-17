@@ -23,6 +23,7 @@ NLP 작업은 보통 텍스트 전처리, 모델 구현/훈련, 훈련된 모델
   - [네이버 쇼핑 제품 후기](https://github.com/bab2min/corpus/tree/master/sentiment): 네이버 쇼핑에서 제품별 후기를 별점과 함께 수집한 말뭉치
   - [네이버 뉴스 기사 수집](https://github.com/affjljoo3581/canrevan): 네이버 뉴스에서 기사 말뭉치를 수집하도록 도와주는 라이브러리
   - [네이버 영화 감상평](https://github.com/e9t/nsmc/): 네이버 영화 감상평 댓글 말뭉치
+  - [한국어 자연어치리 데이터 모음](https://littlefoxdiary.tistory.com/42): 한국어 자연어 처리를 위한 오픈 데이터 모음
 
 ### 다국어용 오픈소스 NLP 도구
 * [BERT](https://github.com/google-research/bert)
