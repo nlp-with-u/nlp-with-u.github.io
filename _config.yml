@@ -18,7 +18,7 @@ navbar-links:
   Courses:
     - course 1. git/github: "/2021-07-22-course1-git-and-github"
     - course 2. about NLP: "/2021-07-23-course2-about-nlp"
-    # - course 3. NLP Tools: "https://beautifuljekyll.com"    
+    - course 3. NLP Tools: "https://beautifuljekyll.com"    
 Author's home: "https://deanattali.com"
 
 # --- Logo --- #
