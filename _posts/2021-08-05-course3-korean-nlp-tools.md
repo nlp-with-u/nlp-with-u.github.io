@@ -13,16 +13,19 @@ NLP 작업은 보통 텍스트 전처리, 모델 구현/훈련, 훈련된 모델
 ### 한국어용 오픈소스 NLP 도구
 * [KoNLPy](https://github.com/konlpy/konlpy): 한국어 정보처리를 위한 파이썬 패키지. 
   한국어 NLP에서 형태소 단위로 분리하는 데이터 전처리(토크나이징)에 많이 사용 ([한국어문서](https://konlpy.org/ko/latest/))
-* [KoGPT2](https://github.com/konlpy/konlpy): 부족한 한국어 성능 극복을 위해 40GB 이상의 텍스트로 학습된 한국어 디코더 언어모델
-* [KoBERT](https://github.com/SKTBrain/KoBERT)
+* [KoGPT2](https://github.com/SKT-AI/KoGPT2): 부족한 한국어 성능 극복을 위해 40GB 이상의 텍스트로 학습된 한국어 디코더 언어모델
+* [KoBERT](https://github.com/SKTBrain/KoBERT): 구글 BERT base multilingual cased의 한국어 성능 한계를 극복하기 위해 SKTBrain팀이 만든 한국어용 NLP도구
 * [Soynlp](https://github.com/lovit/soynlp)
-* [Kiwi](https://github.com/bab2min/Kiwi)
+* [Kiwi](https://github.com/bab2min/Kiwi): 세종 품사 태그 체계를 기반으로, 빠른 속도와 범용적인 성능을 지향하는 한국어 형태소 분석기 라이브러리
 
 ### 한국어 말뭉치
 * [국립국어원 모두의 말뭉치](https://corpus.korean.go.kr/#none): 문어체와 구어체를 포함한 다양한 한국어 말뭉치
 * [네이버 쇼핑 제품 후기](https://github.com/bab2min/corpus/tree/master/sentiment): 네이버 쇼핑에서 제품별 후기를 별점과 함께 수집한 말뭉치
 * [네이버 뉴스 기사 수집](https://github.com/affjljoo3581/canrevan): 네이버 뉴스에서 기사 말뭉치를 수집하도록 도와주는 라이브러리
 * [네이버 영화 감상평](https://github.com/e9t/nsmc/): 네이버 영화 감상평 댓글 말뭉치
+* [나무위키 덤프](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84): 나무위키에서 공식적으로 지원하는 데이터베이스 덤프 파일
+* [위키피디아 덤프](https://dumps.wikimedia.org/kowiki/): 위키피디아에서 지원하는 한국어 데이터 덤프 파일
+* [한국어 자연어치리 데이터 모음](https://littlefoxdiary.tistory.com/42): 한국어 자연어 처리를 위한 오픈 데이터 모음
 
 ### 다국어용 오픈소스 NLP 도구
 * [BERT](https://github.com/google-research/bert)
@@ -32,6 +35,8 @@ NLP 작업은 보통 텍스트 전처리, 모델 구현/훈련, 훈련된 모델
 * [OpenNLP](https://github.com/apache/opennlp)
 * [PORORO](https://github.com/kakaobrain/pororo)
 * [GPT-2](https://openai.com/blog/gpt-2-1-5b-release/) : OpenAI의 단방향 언어모델. 문장 생성에 최적화
+* [Transformers](https://github.com/huggingface/transformers): State-of-the-art NLP 도구 모음 라이브러리(RoBERT,GPT,T5 등 pre-trained모델 제공)
 
 ### NLP 도구 사용법
 * [KoNLPy](https://konlpy.org/ko/latest/#user-guide): KoNLPy 사용 가이드
+* [Transformers](https://huggingface.co/transformers/#): Transformers 사용 가이드
