@@ -30,6 +30,7 @@ Git, Github을 간단히 배울 수 있는 링크입니다.
   - [git scm](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
   - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
   - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko)
+  - [자주하는 실수와 대응법](https://www.hamadevelop.me/gitCommonMistakes/)
 - Git 환경설정
   - [Git CLI, 프시케](https://medium.com/@psychet_learn/git-%EC%82%AC%EC%9A%A9%EB%B2%95-2%EC%9E%A5-git-cli-%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0-3bc6c25db65f)
   - [git GUI, trend21c](https://trend21c.tistory.com/1431)
