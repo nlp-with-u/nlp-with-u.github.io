@@ -39,4 +39,5 @@ NLP 작업은 보통 텍스트 전처리, 모델 구현/훈련, 훈련된 모델
 
 ### NLP 도구 사용법
 * [KoNLPy](https://konlpy.org/ko/latest/#user-guide): KoNLPy 사용 가이드
+* [KoNLPy 사용자 사전](https://jiyeonnn03.github.io/posts/konlpy/): KoNLPy 사용자 사전 사용 방법
 * [Transformers](https://huggingface.co/transformers/#): Transformers 사용 가이드
